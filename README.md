@@ -27,6 +27,9 @@
   </body>
 </html>
 
+
+///js
+
 const nums = document.querySelectorAll('.nums span')
 const counter = document.querySelector('.counter')
 const finalMessage = document.querySelector('.final')
@@ -68,7 +71,10 @@ replay.addEventListener('click', () => {
   runAnimation()
 })
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+//css
+
 
 * {
   box-sizing: border-box;
